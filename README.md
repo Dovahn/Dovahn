@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Dovahn, a 23-year-old programmer who loves diving into code. I enjoy working with all sorts of languages—Python, Lua, C++, and even JavaScript when it behaves.<br>Whether I’m building something new or solving tricky bugs, I’m always up for the challenge.<br>If you need a hand with anything tech-related, I’m happy to help you out!
+Hi! I'm Dovahn, a 23-year-old programmer. I enjoy working with all sorts of languages—Python, Lua, C++, and even JavaScript when it behaves.<br>Whether I’m building something new or solving tricky bugs, I’m always up for the challenge.<br>If you need a hand with anything tech-related, I’m happy to help you out!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dovahn&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
